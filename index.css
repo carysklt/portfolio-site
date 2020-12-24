@@ -26,3 +26,7 @@ button {
     color: #7EC0EE;
     border-radius: 10px;
 }
+
+descriptionBox {
+    background: linear-gradient(#5DAFEA, #7ec0ee);
+}
