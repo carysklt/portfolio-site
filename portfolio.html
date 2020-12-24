@@ -16,7 +16,11 @@
 
         <script language="javascript">
             function showIllustrations(){
-                document.getElementById("illContainer").style.display = "block";
+                if (document.getElementById("illContainer").style.display = "none"){
+                    document.getElementById("illContainer").style.display = "block";
+                } else {
+                    document.getElementById("illContainer").style.display = "none";
+                }
             }
         </script>
 
