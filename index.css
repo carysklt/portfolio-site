@@ -34,3 +34,7 @@ button {
     width: 50%;
     color: #ffff;
 }
+
+#illContainer{
+    display: none;
+}
