@@ -28,5 +28,5 @@ button {
 }
 
 .descriptionBox {
-    background: linear-gradient(#5DAFEA, #7ec0ee);
+    background-image: linear-gradient(#5DAFEA, #7ec0ee);
 }
