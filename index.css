@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:600,700&display=swap');
+
 navbar {
     display: flex;
     justify-content: center;
@@ -5,9 +7,10 @@ navbar {
 
 a {
     text-decoration: none;
+    font-family: Nunito, Roboto, Arial, sans-serif;
     font-size: 15px;
     padding: 5px;
-    color: black;
+    color: #7ec0ee;
 }
 
 a:hover {
