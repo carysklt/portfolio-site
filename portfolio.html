@@ -11,10 +11,16 @@
             <a href="./contact.html">CONTACT</a>
         </navbar>
 
-        <button>illustrations</button>
+        <button onSubmit="showIllustrations()">illustrations</button>
         <button>clay creations</button>
 
-        <div class="ImgContainer">
+        <script language="javascript">
+            function showIllustrations(){
+                document.getElementById("illContainer").style.display = "flex";
+            }
+        </script>
+
+        <div style="display:none" id="illContainer" class="ImgContainer">
             <img src="./portfolio/bt21.jpg" width="300px">
             <img src="./portfolio/inclusive classrooms.jpg" width="300px">
             <img src="./portfolio/back-to-school in times of covid-19.jpg" width="300px">
