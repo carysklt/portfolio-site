@@ -23,6 +23,7 @@ a:hover {
 }
 
 button {
+    text-decoration: none;
     color: #7EC0EE;
     border-color: #7EC0EE;
     border-radius: 10px;
