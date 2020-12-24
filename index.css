@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:600,700&display=swap');
 
+div {
+    padding: 20px;
+    margin: 10px;
+}
+
 navbar {
     display: flex;
     justify-content: center;
