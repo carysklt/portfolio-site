@@ -21,3 +21,8 @@ a {
 a:hover {
     color: #5DAFEA;
 }
+
+button {
+    color: #7EC0EE;
+    border-radius: 10px;
+}
